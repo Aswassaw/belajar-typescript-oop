@@ -85,4 +85,4 @@ class iPhone implements ApplePhone {
 }
 
 const iphoneX = new iPhone ("Iphone X");
-const game2 = new GameA(iphoneX);
+// const game2 = new GameA(iphoneX);
