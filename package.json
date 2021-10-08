@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "ts-watch": "rm -rf build/ && tsc -w",
     "ts-build": "rm -rf build/ && tsc",
-    "dev": "nodemon ./build/25generic_class_constraint.js"
+    "dev": "nodemon ./build/26type_parameter_in_generic_constraint.js"
   },
   "author": "",
   "license": "ISC",
